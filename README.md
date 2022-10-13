@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flyukiy
-- 👀 I’m interested in varous technologies: Flask, Flutter, SQL and etc.
+- 👀 I’m interested in varous technologies: Flask, Flutter, SQL, Flutter and etc.
 - 🌱 I’m currently working as Python developer
-- 📫 usmonov.me@gmail.com
+- 📫 Feel free to contact: usmonov.me@gmail.com
 
 <!---
 Flyukiy/Flyukiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
