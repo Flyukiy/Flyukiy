@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flyukiy
 - 👀 I’m interested in varous technologies: Flask, Flutter, SQL and etc.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working as Python developer
 - 📫 usmonov.me@gmail.com
 
 <!---
