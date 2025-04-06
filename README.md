@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Flyukiy
-- 👀 I’m interested in various technologies: Flask, Dash, SQL, Flutter and etc.
-- 🌱 I’m currently working as Python developer
-- 📫 Feel free to contact: usmonov.me@gmail.com
+- 👋 Hi, I’m Kamol
+- 👀 I’m interested in various technologies: Flask, Dash, SQL, Flutter, etc.
+- 🌱 I’m currently working as a Python developer
 
 <!---
 Flyukiy/Flyukiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
